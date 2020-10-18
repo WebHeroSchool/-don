@@ -4,3 +4,26 @@ font-family: Roboto;
 div{
   font-family: Roboto;
 }
+body{
+  border: dashed 1px red;
+}
+.wrapper{
+  margin: auto;
+  width: 80%;
+  border: dashed 1px red
+}
+.logo,.menu{
+  display: inline-block;
+  border: dashed 1px red
+}
+
+.logo{
+  margin-right: 63%;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.logo{
+  padding: 40px 0;
+}
