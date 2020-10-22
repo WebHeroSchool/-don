@@ -6,7 +6,7 @@ div{
 }
 .wrapper{
   margin: auto;
-  width: 79%;
+  width: 80%;
 }
 .logo,.menu{
   display: inline-block;
@@ -19,7 +19,7 @@ div{
 .logo{
  width: 190px;
  height: 35px;
- background: url('img/logo.svg');
+ background: url('img/Group 15.svg');
 }
 .menu{
   display: flex;
