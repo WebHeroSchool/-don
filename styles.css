@@ -1,33 +1,33 @@
-.title{
+.title {
 font-family: Roboto;
 }
-div{
+div {
   font-family: Roboto;
 }
-.wrapper{
+.wrapper {
   margin: auto;
   width: 80%;
 }
-.logo,.menu{
+.logo,.menu {
   display: inline-block;
 }
-.header{
+.header {
   padding: 40px 0;
   display: flex;
   justify-content: space-between;
 }
-.logo{
+.logo {
  width: 190px;
  height: 35px;
- background: url('img/Group 15.svg');
+ background: url('img/logo.svg');
 }
-.menu{
+.menu {
   display: flex;
   align-items: center;
 }
-.menu__item{
+.menu__item {
   padding: 0 13px
 }
-.menu__item:last-child{
+.menu__item:last-child {
   padding-right: 0;
 }
