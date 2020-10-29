@@ -3,12 +3,12 @@ font-family: Roboto;
 }
 .main__subtitle {
   margin:0 0 41px 0;
-  font: 400 18px/21px Roboto, arial, halvetica, sans-serif;
+  font: 400 22px/26px Roboto, arial, halvetica, sans-serif;
 }
 .main__button {
   display: inline-block;
-  font: 500 14px/16px Roboto, arial, halvetica, sans-serif;
-  padding: 14px 16px;
+  font: 500 18px/21px Roboto, arial, halvetica, sans-serif;
+  padding: 18px 26px;
   color: #fff;
   background: #0056EC;
   text-decoration: none;
@@ -20,7 +20,7 @@ font-family: Roboto;
 }
 .main__title {
   margin:0 0 40px 0;
-  font: 700 50px/65px PT Serif, arial, halvetica, sans-serif;
+  font: 700 66px/87px PT Serif, arial, halvetica, sans-serif;
 }
 .wrapper {
   margin: auto;
