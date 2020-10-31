@@ -2,7 +2,7 @@
 font-family: Roboto;
 }
 .main__subtitle {
-  margin:0 0 41px 0;
+  margin: 0 0 41px 0;
   font: 400 22px/26px Roboto, arial, halvetica, sans-serif;
 }
 .main__button {
@@ -19,7 +19,7 @@ font-family: Roboto;
   opacity: .5;
 }
 .main__title {
-  margin:0 0 40px 0;
+margin: 0 0 40px 0;
   font: 700 66px/87px PT Serif, arial, halvetica, sans-serif;
 }
 .wrapper {
@@ -83,7 +83,7 @@ font-family: Roboto;
   width:100%
 }
 .main {
-  padding: 0 63% 100px 0;
+  padding: 0 60% 220px 0;
   background: top right no-repeat url(img/mainimg.svg);
 }
 .main__title-text_highlight {
