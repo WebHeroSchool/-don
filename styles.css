@@ -1,6 +1,10 @@
 .title {
 font-family: Roboto;
 }
+body {
+  margin:0;
+  padding: 0;
+}
 .main__title {
 margin: 0 0 36px 0;
   font: bold 66px/87px PT Serif, arial, halvetica, sans-serif;
@@ -31,7 +35,7 @@ margin: 0 0 36px 0;
   display: inline-block;
 }
 .header {
-  padding: 40px 0;
+  padding:40px 0;
   display: flex;
   justify-content: space-between;
   margin-bottom: 126px;
@@ -44,6 +48,7 @@ margin: 0 0 36px 0;
 .menu {
   display: flex;
   align-items: center;
+  margin-right: 15px;
 }
 .menu__item {
   position: relative;
@@ -84,7 +89,7 @@ margin: 0 0 36px 0;
   width:100%
 }
 .main {
-  padding: 76px 63% 220px 0;
+  padding: 75px 63% 220px 0;
   background: top right no-repeat url(img/mainimg.svg);
 }
 .main__title-text_highlight {
