@@ -95,11 +95,10 @@ margin: 0 0 36px 0;
 .main__title-text_highlight {
   background: #ECF3FF;
 }
-.menu__box {
-  display: none;
-}
-input{
-  display: none;
+@media(min-width:992px){
+  .hamburger-menu{
+    display: none;
+  }
 }
 @media(max-width:992px) {
   .menu {
@@ -177,7 +176,7 @@ background-color: #ECEFF1;
 box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
 }
 .menu__item {
-display: block;
+  display: block;
 padding: 12px 24px;
 color: #0056EC;
 font-family: 'Roboto', sans-serif;
